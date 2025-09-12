@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lilalaser
 - 👀 I’m interested in data science and linguistics
-- 🌱 I’m currently learning Python (NumPy, Pytorch)
+- 🌱 I’m currently learning Python (Machine/Deep Learning)
 - 😄 Pronouns: she/her
 
 <!---
